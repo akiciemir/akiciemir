@@ -49,6 +49,8 @@ Documents\WindowsPowerShell\profile.ps1    # PSReadLine, alias'lar, Ctrl+L
 ## İletişim
 
 - GitHub: [github.com/akiciemir](https://github.com/akiciemir)
+- Instagram: [@3emxr](https://instagram.com/3emxr)
+- WP: @emxr
 
 ---
 
